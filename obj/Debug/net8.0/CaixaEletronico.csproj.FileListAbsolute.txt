@@ -12,3 +12,4 @@ C:\Users\keoxc\OneDrive\Área de Trabalho\Dia7.CaixaEletronico\CaixaEletronico\o
 C:\Users\keoxc\OneDrive\Área de Trabalho\Dia7.CaixaEletronico\CaixaEletronico\obj\Debug\net8.0\CaixaEletronico.pdb
 C:\Users\keoxc\OneDrive\Área de Trabalho\Dia7.CaixaEletronico\CaixaEletronico\obj\Debug\net8.0\CaixaEletronico.genruntimeconfig.cache
 C:\Users\keoxc\OneDrive\Área de Trabalho\Dia7.CaixaEletronico\CaixaEletronico\obj\Debug\net8.0\ref\CaixaEletronico.dll
+C:\Users\keoxc\OneDrive\Área de Trabalho\Dia7.CaixaEletronico\CaixaEletronico\obj\Debug\net8.0\CaixaEletronico.sourcelink.json
